@@ -1,0 +1,19 @@
+# Залежності
+node_modules/
+
+# Збірка фронтенду
+dist/
+dist-ssr/
+
+# Локальна база даних SQLite
+database.sqlite
+backend/database.sqlite
+
+# Файли середовища з секретними ключами
+.env
+.env.local
+backend/.env
+
+# Системні файли
+.DS_Store
+Thumbs.db
